@@ -1,2 +1,2 @@
 # DesafioRuby
-Repositório para desafios em Ruby referentes a 
+Repositório para desafios em Ruby referentes a cápitulo "Base é tudo".
