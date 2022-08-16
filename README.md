@@ -1,5 +1,5 @@
 # DesafioRuby
-Repositório para desafios em Ruby referentes a capítulo "Base é tudo".
+Repositório para desafios em Ruby referentes ao capítulo "Base é tudo".
 
 
 
